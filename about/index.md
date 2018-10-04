@@ -12,6 +12,7 @@ comments: false
 * Autonomous Golf Cart - Senior Design Year Long Project 
 * Wall Following Robot - VHDL, Fabricated Circuits, Circuit Building
 * Call IV Blue Laser - Self Built
+* Circuit Simulator - C++, Visual Studio
 * Battleship Coded Game - C++, Visual Studio
 * Homes Security Monitor - Microcontrollers
 * Cardboard Canoe Design and Races 
