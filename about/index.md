@@ -8,17 +8,13 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Groups and Activities Related to EE
+* Autonomous Golf Cart - Senior Design Year Long Project 
+* Wall Following Robot - VHDL, Fabricated Circuits, Circuit Building
+* Call IV Blue Laser - Self Built
+* Battleship Coded Game - C++, Visual Studio
+* Homes Security Monitor - Microcontrollers
+* Cardboard Canoe Design and Races 
 
 ## Preview
 
